@@ -416,6 +416,7 @@ This client powers various Discord bots:
     - [Arii Music](https://arimusic.me/) (@friston_ae)
     - [Listen](https://listen.ac) (@gabcaua)
     - [NOTHING](https://discord.com/discovery/applications/1234592539324059709) (@ankush.ly)
+    - [Harmonix](https://harmonixmusic.app/) (@Sagexdd)
 
 ---
 
